@@ -3,4 +3,4 @@ this is a program that can efficiently remove backgrounds from a large number of
 
 you need to do pip install rembg ,set up another additional pip install requirements and install python below version 13 (because it's still not included in version 13) to run it correctly 
 
-to run it you just need to CD to your destinated file that contain this python program and type python remove_bg.py and it will run correctly
+to run it you just need to open Terminal and CD to your destinated file that contain this python program and type python remove_bg.py and it will run correctly
